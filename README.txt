@@ -1,0 +1,1 @@
+This Program is used alongside a potential divider consisting of a photoresistor/LDR alognside a resistor of constant resistance to measure the relative light intensity between new values and the average light intensity calculated by the program measured in terms of the voltage across the photoresistor.
